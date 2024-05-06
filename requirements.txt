@@ -1,0 +1,12 @@
+flask
+python-dotenv
+flask-restful
+replicate
+pyodbc
+pandas
+sqlalchemy
+tabulate
+Pylance
+flask_sqlalchemy
+flask-cors
+pathlib
